@@ -1,0 +1,321 @@
+%!Adobe-FontList 1.20
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\work\ByBikeX.com\Font\Cabin.zip
+FileModTime:1656681282
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\work\ByBikeX.com\Font\Gotham.rar
+FileModTime:1656861160
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamPro-Black
+FamilyName:Gotham Pro
+StyleName:Black
+FullName:Gotham Pro Black Regular
+MenuName:Gotham Pro Black
+StyleBits:2
+FamilyNameNative:Gotham Pro
+StyleNameNative:Black
+FullNameNative:Gotham Pro Black
+WritingScript:Cyrillic
+OutlineFileName:G:\work\ByBikeX.com\Font\Gotham\GothamProBlack.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:45364
+FileModTime:1379343788
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Gotham Pro Black
+NameArray:0,Win,16,Gotham Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamPro-BlackItalic
+FamilyName:Gotham Pro
+StyleName:Black Italic
+FullName:GothamPro-BlackItalic
+MenuName:Gotham Pro Black
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:G:\work\ByBikeX.com\Font\Gotham\GothamProBlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:41688
+FileModTime:1414717086
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,GothamPro-BlackItalic
+NameArray:0,Win,1,Gotham Pro Black
+NameArray:0,Win,16,Gotham Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamPro-Bold
+FamilyName:Gotham Pro
+StyleName:Bold
+FullName:GothamPro-Bold
+MenuName:Gotham Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:G:\work\ByBikeX.com\Font\Gotham\GothamProBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40856
+FileModTime:1414717100
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,GothamPro-Bold
+NameArray:0,Win,1,Gotham Pro
+NameArray:0,Win,16,Gotham Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamPro-BoldItalic
+FamilyName:Gotham Pro
+StyleName:Bold Italic
+FullName:GothamPro-BoldItalic
+MenuName:Gotham Pro
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:G:\work\ByBikeX.com\Font\Gotham\GothamProBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:41764
+FileModTime:1414717112
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,GothamPro-BoldItalic
+NameArray:0,Win,1,Gotham Pro
+NameArray:0,Win,16,Gotham Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamPro-Italic
+FamilyName:Gotham Pro
+StyleName:Italic
+FullName:GothamPro-Italic
+MenuName:Gotham Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\work\ByBikeX.com\Font\Gotham\GothamProItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:41956
+FileModTime:1414717138
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,GothamPro-Italic
+NameArray:0,Win,1,Gotham Pro
+NameArray:0,Win,16,Gotham Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamPro-Light
+FamilyName:Gotham Pro
+StyleName:Light
+FullName:Gotham Pro Light Regular
+MenuName:Gotham Pro Light
+StyleBits:0
+FamilyNameNative:Gotham Pro
+StyleNameNative:Light
+FullNameNative:Gotham Pro Light
+WritingScript:Cyrillic
+OutlineFileName:G:\work\ByBikeX.com\Font\Gotham\GothamProLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46268
+FileModTime:1379343788
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Gotham Pro Light
+NameArray:0,Win,16,Gotham Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamPro-LightItalic
+FamilyName:Gotham Pro
+StyleName:Light Italic
+FullName:GothamPro-LightItalic
+MenuName:Gotham Pro Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\work\ByBikeX.com\Font\Gotham\GothamProLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:41912
+FileModTime:1414717152
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,GothamPro-LightItalic
+NameArray:0,Win,1,Gotham Pro Light
+NameArray:0,Win,16,Gotham Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamPro-Medium
+FamilyName:Gotham Pro
+StyleName:Medium
+FullName:Gotham Pro Medium Regular
+MenuName:Gotham Pro Medium
+StyleBits:0
+FamilyNameNative:Gotham Pro
+StyleNameNative:Medium
+FullNameNative:Gotham Pro Medium
+WritingScript:Cyrillic
+OutlineFileName:G:\work\ByBikeX.com\Font\Gotham\GothamProMedium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46088
+FileModTime:1379343788
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Gotham Pro Medium
+NameArray:0,Win,16,Gotham Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamPro-MediumItalic
+FamilyName:Gotham Pro
+StyleName:Medium Italic
+FullName:GothamPro-MediumItalic
+MenuName:Gotham Pro Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\work\ByBikeX.com\Font\Gotham\GothamProMediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:41716
+FileModTime:1414717164
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,GothamPro-MediumItalic
+NameArray:0,Win,1,Gotham Pro Medium
+NameArray:0,Win,16,Gotham Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GothamPro
+FamilyName:Gotham Pro
+StyleName:Regular
+FullName:GothamPro
+MenuName:Gotham Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\work\ByBikeX.com\Font\Gotham\GothamProRegular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40464
+FileModTime:1414717178
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,GothamPro
+NameArray:0,Win,1,Gotham Pro
+NameArray:0,Win,16,Gotham Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cabin-Italic
+FamilyName:Cabin
+StyleName:Italic
+FullName:Cabin Italic
+MenuName:Cabin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\work\ByBikeX.com\Font\Cabin\Cabin-Italic-VariableFont_wdth,wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:143324
+FileModTime:1300834800
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Cabin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cabin-Regular
+FamilyName:Cabin
+StyleName:Regular
+FullName:Cabin Regular
+MenuName:Cabin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\work\ByBikeX.com\Font\Cabin\Cabin-VariableFont_wdth,wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:153556
+FileModTime:1300834800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Cabin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\work\ByBikeX.com\Font\Cabin\OFL.txt
+FileModTime:1300834800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\work\ByBikeX.com\Font\Cabin\README.txt
+FileModTime:1656645282
+%EndFont
+
