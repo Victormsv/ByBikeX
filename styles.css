@@ -5,28 +5,28 @@
 
 @font-face {
     font-family:"GothamPro";
-    src: url("/font/Gotham/GothamProRegular.ttf") format("truetype");
+    src: url("/ByBikeX/font/Gotham/GothamProRegular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family:"GothamProMedium";
-    src: url("/font/Gotham/GothamProMedium.ttf") format("truetype");
+    src: url("/ByBikeX/font/Gotham/GothamProMedium.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family:"GothamProBold";
-    src: url("/font/Gotham/GothamProBold.ttf") format("truetype");
+    src: url("/ByBikeX/font/Gotham/GothamProBold.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 body {
     margin: 0 auto;
-    background-image: url('/src/img/Home.jpg');
+    background-image: url('/ByBikeX/src/img/home.jpg');
     background-color: #cccccc;
     background-position: center;
     height: 100vh;
