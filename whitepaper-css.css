@@ -467,3 +467,51 @@ td {
     }
     
 }
+
+@media (max-height: 730px) and ( min-height: 640px ) {
+    .home-wrapper {
+        max-height: 480px;
+    }
+
+    .logo {
+        top: 20px;
+    }
+
+    .logo svg {
+        width: 100px;
+        height: 100px;
+    }
+
+    .swiper-pagination-bullets {
+        top: 55% !important;
+    }
+
+    .swiper-pagination-bullet {
+        margin: 0 0 17px 0 !important; 
+    }
+
+    .menu__container {
+        margin-top: 0;
+    }
+
+    .menu__link {
+        font-size: 25px;
+    }
+
+    .menu__header svg {
+        width: 100px;
+        height: 100px;
+    }
+
+    .menu__icon {
+        top: 55px;
+    }
+
+    .menu__header {
+        margin: 20px 0 0 50px;
+    }
+
+    .title {
+        margin: 55px 0 15px 0;
+    }
+}
