@@ -607,6 +607,12 @@ h2 {
 
 }
 
+@media (max-height: 730px) and ( min-height: 640px ) {
+    .swiper-pagination-bullet {
+        margin: 0 0 35px 0 !important;
+    }
+}
+
 
 
 
