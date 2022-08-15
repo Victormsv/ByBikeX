@@ -5,21 +5,21 @@
 
 @font-face {
     font-family:"GothamPro";
-    src: url("/font/Gotham/GothamProRegular.ttf") format("truetype");
+    src: url("/ByBikeX/font/Gotham/GothamProRegular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family:"GothamProMedium";
-    src: url("/font/Gotham/GothamProMedium.ttf") format("truetype");
+    src: url("/ByBikeX/font/Gotham/GothamProMedium.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family:"GothamProBold";
-    src: url("/font/Gotham/GothamProBold.ttf") format("truetype");
+    src: url("/ByBikeX/font/Gotham/GothamProBold.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
