@@ -447,7 +447,13 @@
       document.body.style.backgroundImage = defaultBg
     });
   });
-
+    
+    const appHeight = () => {
+        const doc = document.documentElement
+        doc.style.setProperty('--app-height', `${window.innerHeight}px`)
+    }
+    window.addEventListener('resize', appHeight)
+    appHeight()
 
 //------------------pagination & swiper-------------------------------
     const menu = ['home', 'about us', 'whitepaper', 'roadmap', 'team', 'partners']

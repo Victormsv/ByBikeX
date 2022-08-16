@@ -23,13 +23,15 @@
     font-weight: normal;
     font-style: normal;
 }
-
+:root {
+    --app-height: 100%;
+ }
 body {
     margin: 0 auto;
     background-image: url('/ByBikeX/src/img/home.jpg');
     background-color: #cccccc;
     background-position: center;
-    height: 100vh;
+    height: var(--app-height);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     overflow: hidden;
