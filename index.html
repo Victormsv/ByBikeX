@@ -392,6 +392,21 @@
         }
     });
 
+    body.addEventListener('touchmove', (event) => {
+        allowScroll()
+        if(background.classList.contains('swiper-pagination-bullet-active')) {
+            if(window.innerWidth < 800) {
+                pagination.style.display='block'
+            }
+            document.body.style.backgroundImage = defaultBg
+        } else {
+            if(window.innerWidth < 800){
+                pagination.style.display='none'
+            }
+        document.body.style.backgroundImage = activeBg
+        }
+    });
+
     ['click','ontouchstart'].forEach( evt => 
     body.addEventListener(evt, dosomething, false)
     );
