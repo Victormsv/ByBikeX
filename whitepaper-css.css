@@ -470,10 +470,12 @@ td {
         top: 15px;
     }
     .home-wrapper {
-    max-width: 100%;
-    max-height: 600px;
-    padding: 0 20px;
-    margin-top: 150px;
+        max-width: 100%;
+        max-height: 70vh;
+        padding: 0 20px;
+        top: 150px;
+        position: absolute;
+        overflow: hidden;
     }
 
     .title {
