@@ -388,12 +388,15 @@
             if(window.innerWidth < 800){
                 pagination.style.display='none'
             }
-        document.body.style.backgroundImage = activeBg
+            document.body.style.backgroundImage = activeBg
         }
     });
 
-    body.addEventListener('touchmove', (event) => {
-        allowScroll()
+    body.addEventListener('touchend', (event) => {
+        if(window.innerWidth < 800 && background.classList.contains('swiper-pagination-bullet-active')) {
+            pagination.style.display='flex';
+        }
+        console.log(background.classList.contains('swiper-pagination-bullet-active') , 'event')
         if(background.classList.contains('swiper-pagination-bullet-active')) {
             if(window.innerWidth < 800) {
                 pagination.style.display='block'
