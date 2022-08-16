@@ -60,7 +60,7 @@ body {
 }
 
 .menu__icon {
-    z-index: 11;
+    z-index: 25;
     display: block;
     position: absolute;
     width: 50px;
@@ -437,10 +437,18 @@ td {
         display: none;
     }
 
+    .menu__icon {
+        top: 75px;
+    }
+
     .Mystery-box_text {
         font-weight: 500;
         line-height: 25px;
         font-size: 18px;
+    }
+
+    .menu__header {
+        margin: 25px 0 0 30px;
     }
 
     .quality-diamand {
@@ -478,11 +486,11 @@ td {
 
     .menu__link {
         font-size: 25px;
-        margin: 0px 0 20px 0;
+        margin: 0px 0 10px 0;
     }
 
     .menu__container {
-        margin-top: 50px;
+        margin-top: 0;
     }
     
 }
