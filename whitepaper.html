@@ -451,7 +451,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
     slidesPerView: 1,
     paginationClickable: true,
     spaceBetween: 200,
-    allowTouchMove: true,
     mousewheel:true,
     speed: 600,
     centeredSlides: true,
@@ -504,6 +503,7 @@ swiper.slides.on('touchstart', function (e) {
     touchStart = e.targetTouches[0].pageY;
 }, true);
 swiper.slides.on('touchmove', function (e) {
+    console.log('hehe')
     touchCurrent = e.targetTouches[0].pageY;
     var touchesDiff = touchCurrent - touchStart;
     var slide = this;
