@@ -543,6 +543,11 @@ h2 {
         margin-top: 0;
     }
 
+    .partners-container {
+        margin-top: 0;
+        padding-top: 0;
+    }
+
     .socials svg {
         padding: 10px;
         width: 100%;
