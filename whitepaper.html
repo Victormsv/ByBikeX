@@ -451,6 +451,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     slidesPerView: 1,
     paginationClickable: true,
     spaceBetween: 400,
+    allowTouchMove: true,
     mousewheel:true,
     calculateHeight:true,
     parallax: true,
@@ -461,10 +462,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
     observer: true,
        observeParents: true,
     breakpoints: {
-        768: {
-            allowTouchMove: true,
-        },
-    
     }
     })
     const allowScroll = () => {
