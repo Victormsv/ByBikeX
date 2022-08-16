@@ -208,7 +208,9 @@ body {
 .menu-text.swiper-pagination-bullet-active:first-child {
     font-size: 26px;
 }
-
+.swiper-slide {
+    overflow: scroll !important;
+}
 .content:not(.swiper-slide-active) {
     overflow: hidden;
 }
