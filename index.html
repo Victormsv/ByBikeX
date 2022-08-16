@@ -454,7 +454,12 @@
     centeredSlides: true,
     eventsTarget: ".swiper-slide",
     breakpoints: {
-    
+        768: {
+            allowTouchMove: true,
+        },
+        500: {
+            spaceBetween: 175,
+        }
     }
     })
     const allowScroll = () => {
