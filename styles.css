@@ -619,7 +619,8 @@ h2 {
     }
 
     .roadmap-mob {
-        max-height: 640px;
+        max-height: 465px;
+        width: 100%;
     }
 
     .roadmap__wrapper {
@@ -630,7 +631,7 @@ h2 {
 
 @media (min-width: 500px) {
     .roadmap-mob {
-    max-height: 650px;
+    max-height:465px;
     width: 60%;
     }
     
