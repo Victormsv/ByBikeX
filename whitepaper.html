@@ -459,6 +459,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
     breakpoints: {
     }
     })
+    body.addEventListener('touchend', (event) => {
+            allowScroll()
+        })
     const allowScroll = () => {
         // swiper.update();
     const activeIndex = swiper.activeIndex;
