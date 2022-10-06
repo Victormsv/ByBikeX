@@ -141,7 +141,6 @@
             </a>
         </div>
     </div>
-   <div class="home"">
     <div class="home-wrapper swiper-container mySwiper">
         <div class="swiper-pagination">
 
@@ -325,7 +324,6 @@
             </div>
         </div>
     </div>
-</div>
 </body>
 </html>
 
@@ -375,7 +373,9 @@
         menuBody.classList.remove('_active')
         })})
 
-
+        body.addEventListener('touchend', (event) => {
+            allowScroll()
+        })
 //----------------background image-------------------------
     body.addEventListener('wheel', (event) => {
         allowScroll()
