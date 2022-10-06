@@ -481,14 +481,18 @@ h2 {
 @media (max-width: 800px) {
     .home-wrapper {
         position: relative;
-        margin-top: 150px;
-        max-width: 100%;
-        /* max-height: 475px;
-        margin-bottom: 0; */
+    padding-top: 150px;
+    margin: 0;
+    padding-bottom: 50px;
+    max-width: 100%;
     }
 
     .swiper-pagination {
         top: 33% !important;
+    }
+    .swiper-pagination-vertical.swiper-pagination-bullets, .swiper-vertical>.swiper-pagination-bullets {
+
+        transform: translateY(-33%) !important;
     }
 
     .socials svg {
@@ -546,6 +550,7 @@ h2 {
     }
     .selected-text_container {
         max-height: unset;
+        overflow: auto;
     }
 
 }

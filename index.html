@@ -141,7 +141,7 @@
             </a>
         </div>
     </div>
-   
+   <div class="home"">
     <div class="home-wrapper swiper-container mySwiper">
         <div class="swiper-pagination">
 
@@ -325,7 +325,7 @@
             </div>
         </div>
     </div>
-    
+</div>
 </body>
 </html>
 
@@ -467,14 +467,14 @@
     },
     direction: 'vertical',
     slidesPerView: 1,
-    spaceBetween: 1,
+    spaceBetween: 150,
     mousewheel:true,
     speed: 600,
     centeredSlides: true,
     eventsTarget: ".swiper-slide",
     breakpoints: {
         500: {
-            allowTouchMove: false,
+            autoHeight: true,
             disableOnInteraction: false,
             spaceBetween: 175,
         }
