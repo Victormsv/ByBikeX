@@ -5,21 +5,21 @@
 
 @font-face {
     font-family:"GothamPro";
-    src: url("/ByBikeX/font/Gotham/GothamProRegular.ttf") format("truetype");
+    src: url("font/Gotham/GothamProRegular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family:"GothamProMedium";
-    src: url("/ByBikeX/font/Gotham/GothamProMedium.ttf") format("truetype");
+    src: url("font/Gotham/GothamProMedium.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family:"GothamProBold";
-    src: url("/ByBikeX/font/Gotham/GothamProBold.ttf") format("truetype");
+    src: url("font/Gotham/GothamProBold.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
@@ -50,6 +50,7 @@ body {
     max-width: 150px;
     width: 100%;
     margin: 50px 0 0 50px;
+    z-index: 25;
 }
 
 
@@ -98,6 +99,9 @@ body {
     top: 50%;
     transform: scale(1) translate(0px, -50%);
 }
+.menu__icon._active {
+    z-index: 101;
+}
 
 .menu__icon._active span {
     transform: scale(0) translate(0px, -50%);
@@ -134,6 +138,7 @@ body {
 
 .menu__body._active {
     transform: translate(0px,0px);
+    z-index: 100;
 }
 
 .menu__container {
@@ -559,13 +564,13 @@ td {
         font-size: 9px;
     }
 
-    .menu__header {
+    /* .menu__header {
         display: none;
-    }
+    } */
 
-    .menu__container {
+    /* .menu__container {
        margin-top: 150px; 
-    }
+    } */
 
     .menu__icon {
         top: 60px;
